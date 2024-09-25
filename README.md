@@ -26,3 +26,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lichuang&layout=compact&langs_count=10&exclude_repo=bustub,huili.github.io,lichuang.github.io,bolt-1.3.0-codedump,etcd-3.5.0-codedump,etcd-3.1.10-codedump,postgresql-codedump,linux-kernel-4.15-codedump" alt="lichuang's github stats"/>
 -->
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lichuang&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lichuang&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lichuang&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lichuang&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lichuang&theme=github)
