@@ -8,6 +8,11 @@
 
 </div>
 
+# Working on
+[![replited](https://github-readme-stats.vercel.app/api/pin/?username=lichuang&repo=replited&show_owner=true)](https://github.com/lichuang/replited)
+
+# Statistics
+
 <!-- Copy-paste in your Readme.md file -->
 
 <!--
@@ -27,7 +32,9 @@
 -->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lichuang&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lichuang&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lichuang&theme=github)
+<!--
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lichuang&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lichuang&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lichuang&theme=github)
+-->
