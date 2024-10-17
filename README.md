@@ -12,6 +12,7 @@
 
 # Projects
 * [replited: Replicate SQLite to every where](https://github.com/lichuang/replited)
+* [Lua-Source-Internal: Lua source internal](https://github.com/lichuang/Lua-Source-Internal)
 
 # Contributions
 * [databend: 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics](https://github.com/databendlabs/databend)
