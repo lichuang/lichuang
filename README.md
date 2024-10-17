@@ -1,3 +1,4 @@
+<!--
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Lobster&size=36&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Hello%2C+I%27m+lichuang)](https://git.io/typing-svg)
@@ -7,9 +8,14 @@
 [![](https://img.shields.io/badge/Blog-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white)](https://www.codedump.info/)
 
 </div>
+-->
 
-# Working on
-[![replited](https://github-readme-stats.vercel.app/api/pin/?username=lichuang&repo=replited&show_owner=true)](https://github.com/lichuang/replited)
+# Projects
+* [replited: Replicate SQLite to every where](https://github.com/lichuang/replited)
+
+# Contributions
+* [databend: 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics](https://github.com/databendlabs/databend)
+* [openraft: rust raft with improvements](https://github.com/databendlabs/openraft)
 
 # Statistics
 
