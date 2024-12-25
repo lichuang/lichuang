@@ -10,6 +10,8 @@
 </div>
 -->
 
+Looking for a rust infra job, preferably remotely.
+
 # Projects
 * [replited: Replicate SQLite to every where](https://github.com/lichuang/replited)
 * [Lua-Source-Internal: Lua source internal](https://github.com/lichuang/Lua-Source-Internal)(大陆版：[《Lua设计与实现》](https://book.douban.com/subject/27108476/)，台湾繁体版：[《月亮般輕盈：用Lua成為指令稿語言大師》](https://www.sanmin.com.tw/product/index/007032375))
