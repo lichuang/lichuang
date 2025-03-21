@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/lichuang/lichuang/main/profile-summary-card-output/transparent/4-productive-time.svg)
-```
-
-    
