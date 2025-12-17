@@ -38,7 +38,7 @@ def fetch_pr_stats():
     ret[repo] = (total_count, last_pr_date)
   return ret
 
-def update_readme(count, date):
+def update_readme(data):
   with open("README.md", "r", encoding="utf-8") as f:
       content = f.read()
   new_content = content
