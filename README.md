@@ -20,7 +20,7 @@ Looking for a rust infra job, preferably remotely.
 
 | Project                                              | Last PR       | PR Count         |
 | ---------------------------------------------------- | ------------- | ---------------- |
-| [databend](https://github.com/databendlabs/databend) | databend_last | $databend_count$ |
+| [databend](https://github.com/databendlabs/databend) | 2024-08-08 | $databend_count$ |
 |                                                      |               |                  |
 |                                                      |               |                  |
 
