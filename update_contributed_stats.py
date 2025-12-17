@@ -46,7 +46,8 @@ def update_readme(data):
   for key, value in data.items():
     (count, date) = value
 
-    pattern = "$" + key + "_last$"
+    pattern = key + "_last"
+    print("pattern: {pattern}")
     new_content = re.sub(pattern, date, new_content, flags=re.DOTALL)
 
     pattern = "$" + key + "_count$"
