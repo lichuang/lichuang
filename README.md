@@ -12,12 +12,12 @@
 
 Looking for a rust infra job, preferably remotely.
 
-# Projects
+# Projects I created
 * [replited: Replicate SQLite to every where](https://github.com/lichuang/replited)
 * [Lua-Source-Internal: Lua source internal](https://github.com/lichuang/Lua-Source-Internal)(大陆版：[《Lua设计与实现》](https://book.douban.com/subject/27108476/)，台湾繁体版：[《月亮般輕盈：用Lua成為指令稿語言大師》](https://www.sanmin.com.tw/product/index/007032375))
 
-# Contributions
-* [databend: 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics](https://github.com/databendlabs/databend)
+# Projects I contributed to
+* [databend: Data Analytics & AI. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics](https://github.com/databendlabs/databend)
 * [openraft: rust raft with improvements](https://github.com/databendlabs/openraft)
 
 # Statistics
