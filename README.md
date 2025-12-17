@@ -17,6 +17,15 @@ Looking for a rust infra job, preferably remotely.
 * [Lua-Source-Internal: Lua source internal](https://github.com/lichuang/Lua-Source-Internal)(大陆版：[《Lua设计与实现》](https://book.douban.com/subject/27108476/)，台湾繁体版：[《月亮般輕盈：用Lua成為指令稿語言大師》](https://www.sanmin.com.tw/product/index/007032375))
 
 # Projects I contributed to
+
+| Project                                              | Last PR         | PR Count         |
+| ---------------------------------------------------- | --------------- | ---------------- |
+| [databend](https://github.com/databendlabs/databend) | $databend_last$ | $databend_count$ |
+|                                                      |                 |                  |
+|                                                      |                 |                  |
+
+
+
 * [databend: Data Analytics & AI. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics](https://github.com/databendlabs/databend)
 * [openraft: rust raft with improvements](https://github.com/databendlabs/openraft)
 

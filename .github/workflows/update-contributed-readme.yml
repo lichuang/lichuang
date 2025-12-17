@@ -1,0 +1,29 @@
+name: Update contributed PR Stats
+on:
+  schedule:
+    - cron: '0 0 * * *' # 每天 UTC 0点运行
+  workflow_dispatch: # 允许手动点击按钮触发
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # 必须赋予写权限，否则无法 push 代码
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+      - name: Install dependencies
+        run: pip install requests
+      - name: Update Readme
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # 内置 Token，无需自己设置
+        run: python update_contributed_stats.py
+      - name: Commit and Push
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          # 只有文件有变动时才 commit，避免空 commit 报错
+          git diff --quiet && git diff --staged --quiet || (git commit -am "chore: update pr stats" && git push)
