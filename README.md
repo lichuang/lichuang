@@ -19,17 +19,13 @@ Looking for a rust infra job, preferably remotely.
 # Projects I contributed to
 
 
-
 | Project                                              | Last PR       | PR Count         |
 | ---------------------------------------------------- | ------------- | ---------------- |
-| [databend](https://github.com/databendlabs/databend) | 2024-08-08 | $databend_count$ |
+| [databend](https://github.com/databendlabs/databend) | 2024-08-08 | 271 |
+| [openraft: rust raft with improvements](https://github.com/databendlabs/openraft)                                                      |  2025-03-06             |  33                |
 |                                                      |               |                  |
-|                                                      |               |                  |
 
 
-
-* [databend: Data Analytics & AI. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics](https://github.com/databendlabs/databend)
-* [openraft: rust raft with improvements](https://github.com/databendlabs/openraft)
 
 # Statistics
 
