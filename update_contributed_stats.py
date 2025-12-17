@@ -35,7 +35,7 @@ def fetch_pr_stats():
         last_pr_date = dt.strftime("%Y-%m-%d")
         
     repo = TARGET_REPO.split("/")[1]
-    ret[repo] = (total_count, last_pr_date)
+    ret[repo] = (str(total_count), last_pr_date)
   return ret
 
 def update_readme(data):
