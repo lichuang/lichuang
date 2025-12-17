@@ -3,7 +3,7 @@ import re
 import requests
 from datetime import datetime
 
-TARGET_REPOS = ["databendlabs/databend"]# 你参与的目标项目
+TARGET_REPOS = ["databendlabs/databend", "databendlabs/openraft"]# 你参与的目标项目
 YOUR_USERNAME = "lichuang" # 你的 GitHub ID
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN") # Action 会自动注入
 
@@ -41,16 +41,17 @@ def fetch_pr_stats():
 def update_readme(data):
   with open("README.md", "r", encoding="utf-8") as f:
       content = f.read()
-  new_content = content
+  with open("README.template", "r", encoding="utf-8") as f:
+      new_content = f.read()
 
   for key, value in data.items():
     (count, date) = value
 
     pattern = key + "_last"
-    print("pattern: {pattern}")
+    #print("pattern: {pattern}")
     new_content = re.sub(pattern, date, new_content, flags=re.DOTALL)
 
-    pattern = "$" + key + "_count$"
+    pattern = key + "_count"
     new_content = re.sub(pattern, count, new_content, flags=re.DOTALL)
     
   if new_content != content:
