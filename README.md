@@ -18,11 +18,11 @@ Looking for a rust infra job, preferably remotely.
 
 # Projects I contributed to
 
-| Project                                              | Last PR         | PR Count         |
-| ---------------------------------------------------- | --------------- | ---------------- |
-| [databend](https://github.com/databendlabs/databend) | $databend_last$ | $databend_count$ |
-|                                                      |                 |                  |
-|                                                      |                 |                  |
+| Project                                              | Last PR       | PR Count         |
+| ---------------------------------------------------- | ------------- | ---------------- |
+| [databend](https://github.com/databendlabs/databend) | databend_last | $databend_count$ |
+|                                                      |               |                  |
+|                                                      |               |                  |
 
 
 
