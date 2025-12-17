@@ -3,7 +3,7 @@ import re
 import requests
 from datetime import datetime
 
-TARGET_REPOS = ["databendlabs/databend", "databendlabs/openraft"]# 你参与的目标项目
+TARGET_REPOS = ["databendlabs/databend", "databendlabs/openraft", "apache/arrow-rs"]# 你参与的目标项目
 YOUR_USERNAME = "lichuang" # 你的 GitHub ID
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN") # Action 会自动注入
 

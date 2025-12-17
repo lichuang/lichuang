@@ -21,9 +21,9 @@ Looking for a rust infra job, preferably remotely.
 
 | Project                                              | Last PR       | PR Count         |
 | ---------------------------------------------------- | ------------- | ---------------- |
-| [databend](https://github.com/databendlabs/databend) | databend_last | databend_count |
+| [arrow-rs: Official Rust implementation of Apache Arrow](https://github.com/apache/arrow-rs)                                                     | arrow-rs_last              |  arrow-rs_count                |
 | [openraft: rust raft with improvements](https://github.com/databendlabs/openraft)                                                      |  openraft_last             |  openraft_count                |
-|                                                      |               |                  |
+| [databend](https://github.com/databendlabs/databend) | databend_last | databend_count |
 
 
 
