@@ -4,8 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Lobster&size=36&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Hello%2C+I%27m+lichuang)](https://git.io/typing-svg)
 
 [![](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/codedump_notes)
-[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lichuang)
-[![](https://img.shields.io/badge/Blog-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white)](https://www.codedump.info/)
+[![]()](https://twitter.com/lichuang)
+[![]()](https://www.codedump.info/)
 
 </div>
 -->
@@ -21,8 +21,9 @@ Looking for a rust infra job, preferably remotely.
 
 | Project                                              | Last PR       | PR Count         |
 | ---------------------------------------------------- | ------------- | ---------------- |
-| [arrow-rs: Official Rust implementation of Apache Arrow](https://github.com/apache/arrow-rs)                                                     | arrow-rs_last              |  arrow-rs_count                |
+| [lance: Open Lakehouse Format for Multimodal AI](https://github.com/lance-format/lance)                                                     | lance_last              |  lance_count                |
 | [openraft: rust raft with improvements](https://github.com/databendlabs/openraft)                                                      |  openraft_last             |  openraft_count                |
+| [arrow-rs: Official Rust implementation of Apache Arrow](https://github.com/apache/arrow-rs)                                                     | arrow-rs_last              |  arrow-rs_count                |
 | [databend](https://github.com/databendlabs/databend) | databend_last | databend_count |
 
 
@@ -34,8 +35,8 @@ Looking for a rust infra job, preferably remotely.
 <!--
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=1998569" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=1998569&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @lichuang" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=1998569&image_size=auto&color_scheme=light" width="771" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="" width="771" height="auto">
+    <img alt="Dashboard stats of @lichuang" src="" width="771" height="auto">
   </picture>
 </a>
 -->
