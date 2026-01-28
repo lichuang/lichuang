@@ -23,7 +23,7 @@ Looking for a rust infra job, preferably remotely.
 | ---------------------------------------------------- | ------------- | ---------------- |
 | [lance: Open Lakehouse Format for Multimodal AI](https://github.com/lance-format/lance)                                                     | 2026-01-21              |  5                |
 | [openraft: rust raft with improvements](https://github.com/databendlabs/openraft)                                                      |  2025-03-06             |  33                |
-| [arrow-rs: Official Rust implementation of Apache Arrow](https://github.com/apache/arrow-rs)                                                     | 2025-12-14              |  5                |
+| [arrow-rs: Official Rust implementation of Apache Arrow](https://github.com/apache/arrow-rs)                                                     | 2026-01-27              |  6                |
 | [databend](https://github.com/databendlabs/databend) | 2024-08-08 | 271 |
 
 
