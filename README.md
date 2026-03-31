@@ -13,6 +13,12 @@
 Looking for a rust infra job, preferably remotely.
 
 # Projects I created
+
+* [rockraft: A strongly consistent distributed key-value store library built on Raft consensus protocol and RocksDB.](https://github.com/lichuang/rockraft)
+
+* [coredb: Redis-compatible distributed key-value database built on Raft and RocksDB that provides strong consistency and automatic failover in a clustered environment.](https://github.com/lichuang/coredb)
+* [ironcode: AI CLI Coding Agent build with Rust.](https://github.com/lichuang/ironcode)
+
 * [replited: Replicate SQLite to every where](https://github.com/lichuang/replited)
 * [Lua-Source-Internal: Lua source internal](https://github.com/lichuang/Lua-Source-Internal)(大陆版：[《Lua设计与实现》](https://book.douban.com/subject/27108476/)，台湾繁体版：[《月亮般輕盈：用Lua成為指令稿語言大師》](https://www.sanmin.com.tw/product/index/007032375))
 
