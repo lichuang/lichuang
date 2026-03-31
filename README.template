@@ -1,57 +1,116 @@
-<!--
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Lobster&size=36&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Hello%2C+I%27m+lichuang)](https://git.io/typing-svg)
+# Hi, I'm lichuang 👋
 
-[![](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/codedump_notes)
-[![]()](https://twitter.com/lichuang)
-[![]()](https://www.codedump.info/)
+**Building distributed systems & infrastructure tools in Rust**
+
+[![](https://img.shields.io/badge/Email-lichuang1982@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lichuang1982@gmail.com)
+[![](https://img.shields.io/badge/Blog-codedump.info-2CA5E0?style=flat-square&logo=google-chrome&logoColor=white)](https://www.codedump.info/)
+[![](https://img.shields.io/badge/Telegram-@codedump__notes-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/codedump_notes)
+
+---
+
+### 🟢 Actively Seeking Rust Remote Roles
+
+Distributed systems · Databases · Storage engines · Developer tooling
+
+Based in Guangzhou, China (UTC+8) — experienced in async collaboration across time zones.
+
+[![](https://img.shields.io/badge/Focus-Rust_Infrastructure-CE422B?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![](https://img.shields.io/badge/Work_Preference-Remote-0A66C2?style=for-the-badge&logo=remote&logoColor=white)]()
 
 </div>
--->
 
-Looking for a rust infra job, preferably remotely.
+---
 
-# Projects I created
-* [replited: Replicate SQLite to every where](https://github.com/lichuang/replited)
-* [Lua-Source-Internal: Lua source internal](https://github.com/lichuang/Lua-Source-Internal)(大陆版：[《Lua设计与实现》](https://book.douban.com/subject/27108476/)，台湾繁体版：[《月亮般輕盈：用Lua成為指令稿語言大師》](https://www.sanmin.com.tw/product/index/007032375))
+## 🚀 Featured Projects
 
-# Projects I contributed to
+<table>
+<tr>
+<td width="50%">
 
+<h3 align="center">🏗️ rockraft</h3>
+<p align="center"><strong>Distributed KV store on Raft + RocksDB</strong></p>
+<p align="center">
+<a href="https://github.com/lichuang/rockraft"><img src="https://img.shields.io/github/stars/lichuang/rockraft?style=social" alt="stars"></a>
+<img src="https://img.shields.io/badge/language-Rust-CE422B" alt="Rust">
+</p>
 
-| Project                                              | Last PR       | PR Count         |
+A library-first distributed consensus engine providing clean abstractions over **Raft protocol** and **RocksDB** for building strongly consistent systems.
+
+</td>
+<td width="50%">
+
+<h3 align="center">🔧 coredb</h3>
+<p align="center"><strong>Redis-compatible distributed database</strong></p>
+<p align="center">
+<a href="https://github.com/lichuang/coredb"><img src="https://img.shields.io/github/stars/lichuang/coredb?style=social" alt="stars"></a>
+<img src="https://img.shields.io/badge/language-Rust-CE422B" alt="Rust">
+</p>
+
+Drop-in **Redis alternative** with Raft-based strong consistency and automatic cluster failover. Redis protocol compatible with linearizable guarantees.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<h3 align="center">🤖 ironcode</h3>
+<p align="center"><strong>AI-powered CLI coding agent</strong></p>
+<p align="center">
+<a href="https://github.com/lichuang/ironcode"><img src="https://img.shields.io/github/stars/lichuang/ironcode?style=social" alt="stars"></a>
+<img src="https://img.shields.io/badge/language-Rust-CE422B" alt="Rust">
+</p>
+
+A terminal-native AI coding assistant leveraging Rust's performance for fast, reliable code generation and manipulation.
+
+</td>
+<td width="50%">
+
+<h3 align="center">⚡ replited</h3>
+<p align="center"><strong>Replicate SQLite to everywhere</strong></p>
+<p align="center">
+<a href="https://github.com/lichuang/replited"><img src="https://img.shields.io/github/stars/lichuang/replited?style=social" alt="stars"></a>
+<img src="https://img.shields.io/badge/language-Rust-CE422B" alt="Rust">
+</p>
+
+A lightweight replication tool that bridges **SQLite** with cloud storage — S3, FTP, WebDAV, Google Drive, Dropbox and more. Ship local data to the cloud without heavyweight infrastructure.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<h3 align="center">📖 Lua-Source-Internal</h3>
+<p align="center"><strong>A deep dive into Lua source internals</strong></p>
+<p align="center">
+<a href="https://github.com/lichuang/Lua-Source-Internal"><img src="https://img.shields.io/github/stars/lichuang/Lua-Source-Internal?style=social" alt="stars"></a>
+</p>
+
+Comprehensive walkthrough of the Lua VM, compiler, and runtime. Published as 📘 [《Lua设计与实现》](https://book.douban.com/subject/27108476/) (Simplified Chinese) and 📗 [《月亮般輕盈》](https://www.sanmin.com.tw/product/index/007032375) (Traditional Chinese).
+
+</td>
+<td width="50%">
+</td>
+</tr>
+</table>
+
+---
+
+## 🤝 Open Source Contributions
+
+| Project | Last PR | PRs |
 | ---------------------------------------------------- | ------------- | ---------------- |
-| [lance: Open Lakehouse Format for Multimodal AI](https://github.com/lance-format/lance)                                                     | lance_last              |  lance_count                |
-| [openraft: rust raft with improvements](https://github.com/databendlabs/openraft)                                                      |  openraft_last             |  openraft_count                |
-| [arrow-rs: Official Rust implementation of Apache Arrow](https://github.com/apache/arrow-rs)                                                     | arrow-rs_last              |  arrow-rs_count                |
-| [databend](https://github.com/databendlabs/databend) | databend_last | databend_count |
+| [**databend** — Modern cloud data warehouse](https://github.com/databendlabs/databend) | databend_last | databend_count |
+| [**openraft** — Advanced Raft consensus in Rust](https://github.com/databendlabs/openraft) | openraft_last | openraft_count |
+| [**arrow-rs** — Official Rust Apache Arrow](https://github.com/apache/arrow-rs) | arrow-rs_last | arrow-rs_count |
+| [**lance** — Open lakehouse format for multimodal AI](https://github.com/lance-format/lance) | lance_last | lance_count |
 
+---
 
-
-# Statistics
-
-<!-- Copy-paste in your Readme.md file -->
-
-<!--
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=1998569" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="" width="771" height="auto">
-    <img alt="Dashboard stats of @lichuang" src="" width="771" height="auto">
-  </picture>
-</a>
--->
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=lichuang&show_icons=true" alt="lichuang's github stats"/>
-<!--
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lichuang&layout=compact&langs_count=10&exclude_repo=bustub,huili.github.io,lichuang.github.io,bolt-1.3.0-codedump,etcd-3.5.0-codedump,etcd-3.1.10-codedump,postgresql-codedump,linux-kernel-4.15-codedump" alt="lichuang's github stats"/>
--->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lichuang&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lichuang&theme=github)
-<!--
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lichuang&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lichuang&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lichuang&theme=github)
--->
