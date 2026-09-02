@@ -55,14 +55,14 @@ Drop-in **Redis alternative** with Raft-based strong consistency and automatic c
 <tr>
 <td width="50%">
 
-<h3 align="center">🤖 ironcode</h3>
-<p align="center"><strong>AI-powered CLI coding agent</strong></p>
+<h3 align="center">📄 docq</h3>
+<p align="center"><strong>Local document Q&A in your terminal</strong></p>
 <p align="center">
-<a href="https://github.com/lichuang/ironcode"><img src="https://img.shields.io/github/stars/lichuang/ironcode?style=social" alt="stars"></a>
+<a href="https://github.com/lichuang/docq"><img src="https://img.shields.io/github/stars/lichuang/docq?style=social" alt="stars"></a>
 <img src="https://img.shields.io/badge/language-Rust-CE422B" alt="Rust">
 </p>
 
-A terminal-native AI coding assistant leveraging Rust's performance for fast, reliable code generation and manipulation.
+Local document Q&A in your terminal — powered by on-device LLMs.
 
 </td>
 <td width="50%">
