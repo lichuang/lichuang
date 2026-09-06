@@ -55,10 +55,10 @@ Drop-in **Redis alternative** with Raft-based strong consistency and automatic c
 <tr>
 <td width="50%">
 
-<h3 align="center">📄 docq</h3>
+<h3 align="center">📄 semquery</h3>
 <p align="center"><strong>Local document Q&A in your terminal</strong></p>
 <p align="center">
-<a href="https://github.com/lichuang/docq"><img src="https://img.shields.io/github/stars/lichuang/docq?style=social" alt="stars"></a>
+<a href="https://github.com/lichuang/semquery"><img src="https://img.shields.io/github/stars/lichuang/semquery?style=social" alt="stars"></a>
 <img src="https://img.shields.io/badge/language-Rust-CE422B" alt="Rust">
 </p>
 
