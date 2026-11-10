@@ -103,8 +103,8 @@ Comprehensive walkthrough of the Lua VM, compiler, and runtime. Published as �
 | ---------------------------------------------------- | ------------- | ---------------- |
 | [**databend** — Modern cloud data warehouse](https://github.com/databendlabs/databend) | 2024-08-08 | 271 |
 | [**openraft** — Advanced Raft consensus in Rust](https://github.com/databendlabs/openraft) | 2026-09-08 | 38 |
-| [**arrow-rs** — Official Rust Apache Arrow](https://github.com/apache/arrow-rs) | 2026-01-27 | 6 |
-| [**lance** — Open lakehouse format for multimodal AI](https://github.com/lance-format/lance) | 2026-11-05 | 22 |
+| [**arrow-rs** — Official Rust Apache Arrow](https://github.com/apache/arrow-rs) | 2026-11-10 | 7 |
+| [**lance** — Open lakehouse format for multimodal AI](https://github.com/lance-format/lance) | 2026-11-06 | 23 |
 
 ---
 
