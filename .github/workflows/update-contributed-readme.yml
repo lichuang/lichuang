@@ -10,11 +10,11 @@ jobs:
       contents: write  # 必须赋予写权限，否则无法 push 代码
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v7
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v7
         with:
-          python-version: '3.9'
+          python-version: '3.13'
       - name: Install dependencies
         run: pip install requests
       - name: Update Readme
